@@ -1,1 +1,1 @@
-![Alt text](./khabrilal.svg)
+<img src="./Banner.svg">
