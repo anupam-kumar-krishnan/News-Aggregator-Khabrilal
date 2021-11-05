@@ -1,12 +1,12 @@
 # News Aggregator : Khabrilal📰📰
 <img src="./Banner.svg">
 
-## Features
+## Features✨🚀
 - A News Aggregator implemented with <b>Django Framework</b>
 - Various <b>Categories</b> of News are presented on a <b>Single Page</b>
 - It is implemented using News API by <b>Google</b>
 
-## News Categories
+## News Categories🔥
 - Bussiness
 - Health
 - Science
