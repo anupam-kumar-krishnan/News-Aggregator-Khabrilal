@@ -1,4 +1,4 @@
-# _News Aggregator💫 : Khabrilal 📰_
+# _News Aggregator🗞️🗞️ : Khabrilal 📰_
 <img src="./Banner.svg">
 
 ## _Features_ ✨🚀
