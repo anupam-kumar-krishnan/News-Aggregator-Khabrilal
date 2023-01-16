@@ -1,5 +1,7 @@
 # _News Aggregator🗞️🗞️ : Khabrilal 📰_
-<img src="./Banner.svg">
+<!--<img src="./Banner.svg"> -->
+
+![Screenshot (237)](https://user-images.githubusercontent.com/69143883/212754198-b3bffd31-536d-4628-84f0-bb529eea42e6.png)
 
 ## _Features_ ✨🚀
 📌 A News Aggregator implemented with <b>_Django Framework_</b><br>
