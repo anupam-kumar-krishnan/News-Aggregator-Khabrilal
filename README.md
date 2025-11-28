@@ -1,4 +1,4 @@
-# _News Aggregator🗞️🗞️ : Khabrilal 📰_
+# _News Aggregator🗞️🗞️ - Khabrilal 📰_
 <!--<img src="./Banner.svg"> -->
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/69143883/212754198-b3bffd31-536d-4628-84f0-bb529eea42e6.png)
